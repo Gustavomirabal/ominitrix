@@ -1,2 +1,4 @@
 bibliotecas:
     SpeechRecognition
+    vosk
+    pyaudio
