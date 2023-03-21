@@ -1,2 +1,7 @@
 # ominitrix
- Um assistente virtual em python baseado no jarvis
+ Um assistente virtual em python 
+
+ Técnologias:
+    reconhecimento de voz;
+    Síntese de voz;
+    algum tipo de IA.
